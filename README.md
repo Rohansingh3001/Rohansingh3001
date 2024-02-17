@@ -11,5 +11,5 @@ Rohansingh3001/Rohansingh3001 is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <p align="center">
-    <img src="https://profile-cards-api.vercel.app/api/profile?name=Rohan%20Singh&location=kolkata&title=web%20developer&imageLink=https://i.ibb.co/2hKt6Ft/77c3683426e2.jpg&socialMedia=linkedin&socialMediaUsername=rohansingh>
+    <img src="http://profile-cards-api.vercel.app/c/TqHZgE3WIM">
 </p>
