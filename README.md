@@ -17,5 +17,5 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-    <img src="http://profile-cards-api.vercel.app/c/TqHZgE3WIM">
+    <img src="http://profile-cards-api.vercel.app/c/IQoPZMdUQi">
 </p>
