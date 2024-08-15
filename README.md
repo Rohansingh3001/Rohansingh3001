@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohan Singh</h1>
 <h3 align="center">A passionate web developer and ML enthusiast</h3>
 
-- 🌱 I’m currently learning **Python , Mongodb..**
+- 🌱 I’m currently learning **Rreact js , Mongodb..**
 
 - 📫 How to reach me **rsingh300103@gmail.com**
 
