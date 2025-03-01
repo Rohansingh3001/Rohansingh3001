@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rohan Singh</h1>
+is<h1 align="center">Hi 👋, I'm Rohan Singh</h1>
 <h3 align="center">A passionate web developer and ML enthusiast</h3>
 
 - 🌱 I’m currently learning **React js , Mongodb..**
@@ -20,4 +20,4 @@
 <figure><embed src="https://wakatime.com/share/@Rohansingh3001/f10269cf-5998-4590-905d-71c1d9b2f65b.svg"></embed></figure>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohansingh3001&show_icons=true&locale=en&layout=compact" alt="rohansingh3001" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohansingh3001&show_icons=true&locale=en" alt="Rohansingh3001" /></p>
-
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Rohansingh3001&layout=compact&theme=dracula" />
