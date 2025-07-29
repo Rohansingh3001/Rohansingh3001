@@ -29,7 +29,9 @@
 
 ### ⏱️ WakaTime Coding Stats
 <p align="center">
-  <img src="https://wakatime.com/share/@Rohansingh3001/f10269cf-5998-4590-905d-71c1d9b2f65b.svg" alt="WakaTime Stats" />
+  <img src="https://wakatime.com/share/@Rohansingh3001/f10269cf-5998-4590-905d-71c1d9b2f65b.svg" alt="WakaTime Stats" style="background: transparent;" />
 </p>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
