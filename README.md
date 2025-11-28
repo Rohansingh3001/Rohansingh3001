@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Next js , Nest js..<br><br>📫 How to reach me rsingh300103@gmail.com
+🌱 I’m currently learning IDK..<br><br>📫 How to reach me rsingh300103@gmail.com
 
 ---
 
