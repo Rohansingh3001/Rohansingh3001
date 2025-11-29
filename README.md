@@ -6,7 +6,7 @@
 ### 🔥 Profile Insights
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Rohansingh3001" alt="Profile Views">
-  <img src="https://wakatime.com/badge/user/018ca5a4-e0f2-4fab-834f-1af422477677.svg" alt="WakaTime">
+  [![wakatime](https://wakatime.com/badge/user/018ca5a4-e0f2-4fab-834f-1af422477677.svg)](https://wakatime.com/@018ca5a4-e0f2-4fab-834f-1af422477677)
   <img src="https://img.shields.io/github/followers/Rohansingh3001?label=Follow&style=social" alt="GitHub Followers">
 </p>
 
